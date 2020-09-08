@@ -1,0 +1,49 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	background: lightblue;
+}
+
+h1{
+	color:red;
+	text-align: center;
+}
+p{
+	text-align: center;
+
+}
+.form-box{
+	width:50%;
+	background: white;
+	margin:0 auto;
+	border-radius: 10px;
+	margin-top:30px;
+	padding-top:20px; 
+}
+
+h2{
+	border-bottom: 2px solid red;
+	text-align: center;
+	font-size: 24px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+
+form .form-control{
+	margin: 0 auto;
+	padding: 20px 30px;
+	display: block;
+	margin-bottom: 10px;
+	border-radius: 30px;
+}
+.button{
+	margin: 40 auto;    /* why margin not exequit  */
+	
+	text-align: center;
+	font-style: italic;
+	padding: 10px;
+	margin: 20px;
+	text-transform: uppercase;
+}
